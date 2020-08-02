@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\asp.net\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\asp.net\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\asp.net\\WebApplication1\\WebApplication1\\MovieMVCapp.csproj",
+      "projectName": "MovieMVCapp",
+      "projectPath": "C:\\asp.net\\WebApplication1\\WebApplication1\\MovieMVCapp.csproj",
       "packagesPath": "C:\\Users\\Gennie\\.nuget\\packages\\",
       "outputPath": "C:\\asp.net\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zv1JiWiDQQVo9THZlucvYVb7UzvgFMnJvaMXtO1xl4rH39NIXYZRTlmgmrkCzzYYIFUuGBxqdopkb6L+73o7rw==",
+  "dgSpecHash": "urqplIOKsEMoLruTrDPcOu3m8mDwM5DNxjnsGDYt3baGAf9KIYZqeKfQ9aNwLq3K1G6omcVqZcf+B8nBgA2vHg==",
   "success": true,
-  "projectFilePath": "C:\\asp.net\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\asp.net\\WebApplication1\\WebApplication1\\MovieMVCapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
