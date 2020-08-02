@@ -6,9 +6,16 @@ namespace MovieMVC.Controllers
     public  class HelloWorldController : Controller
     {
         //Get : /HelloWorld/
-        public string Index()
+
+        // Test 1
+        //public string Index()
+        //{
+        //    return "this is my default Action";
+        //}
+
+        public IActionResult Index()
         {
-            return "this is my default Action";
+            return View();
         }
 
         //GET: /HelloWorld/Welcome

@@ -9,7 +9,6 @@ C:\asp.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MovieMVCapp.d
 C:\asp.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MovieMVCapp.pdb
 C:\asp.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MovieMVCapp.Views.dll
 C:\asp.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MovieMVCapp.Views.pdb
-C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\MovieMVCapp.csprojAssemblyReference.cache
 C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\MovieMVCapp.AssemblyInfoInputs.cache
 C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\MovieMVCapp.AssemblyInfo.cs
 C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\MovieMVCapp.csproj.CoreCompileInputs.cache
@@ -35,3 +34,4 @@ C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\MovieMVCapp.d
 C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\MovieMVCapp.pdb
 C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\MovieMVCapp.genruntimeconfig.cache
 C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\MovieMVCapp.csproj.CopyComplete
+C:\asp.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
