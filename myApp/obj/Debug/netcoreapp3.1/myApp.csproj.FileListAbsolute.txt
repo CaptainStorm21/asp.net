@@ -1,0 +1,13 @@
+C:\asp.net\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\asp.net\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\asp.net\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\asp.net\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\asp.net\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\asp.net\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\asp.net\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\asp.net\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\asp.net\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\asp.net\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+C:\asp.net\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\asp.net\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+C:\asp.net\myApp\obj\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache
