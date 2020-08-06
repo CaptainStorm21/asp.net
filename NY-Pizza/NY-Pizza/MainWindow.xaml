@@ -6,10 +6,10 @@
         xmlns:local="clr-namespace:NY_Pizza"
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="800">
-    <Grid>
+    <Grid Height="478" VerticalAlignment="Top">
 
 
-        <Rectangle HorizontalAlignment="Left" Height="217" Margin="66,231,0,0" Stroke="Black" VerticalAlignment="Top" Width="255" RenderTransformOrigin="0.5,0.5">
+        <Rectangle HorizontalAlignment="Left" Height="148" Margin="66,241,0,0" Stroke="Black" VerticalAlignment="Top" Width="255" RenderTransformOrigin="0.5,0.5" Fill="#FFF9F982">
             <Rectangle.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -23,5 +23,22 @@
         <RadioButton x:Name="rbPineapple" Content="Pineapple Pizza $11.99" HorizontalAlignment="Left" Margin="88,329,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" FontSize="18" GroupName="TypeOfPizza"/>
         <RadioButton x:Name="rbCheese" Content="Cheese Pizza $9.99" HorizontalAlignment="Left" Margin="88,269,0,0" VerticalAlignment="Top" FontSize="18" GroupName="TypeOfPizza"/>
         <RadioButton x:Name="rbPepperoni" Content="Pepperoni $12.99" HorizontalAlignment="Left" Margin="88,300,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" FontSize="18" GroupName="TypeOfPizza"/>
+        <Label Content="Enter your name" HorizontalAlignment="Left" Margin="69,156,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="Bahnschrift"/>
+        <TextBox HorizontalAlignment="Left" Margin="219,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="470" FontSize="18"/>
+        <Rectangle HorizontalAlignment="Left" Height="217" Margin="354,227,0,0" Stroke="Black" VerticalAlignment="Top" Width="422" RenderTransformOrigin="0.5,0.5" Fill="WhiteSmoke">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.265"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.495"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Label x:Name="labelOrder" Content="Order" HorizontalAlignment="Center" Margin="0,254,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelPizzaDescription" Content="Pizza Description" HorizontalAlignment="Left" Margin="380,297,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.928"/>
+        <Label Content="Total Price" HorizontalAlignment="Left" Margin="578,361,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,3.507" FontSize="22"/>
+        <Label Content="$" HorizontalAlignment="Left" Margin="380,361,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.474,4.855" FontSize="24" FontWeight="Bold"/>
+        <Button x:Name="button" Content="Order" HorizontalAlignment="Left" Margin="116,415,0,0" VerticalAlignment="Top" FontSize="22" Background="#FFB7F0D3" Width="129" BorderBrush="#FF190380" Foreground="#FF5D0659"/>
     </Grid>
 </Window>
