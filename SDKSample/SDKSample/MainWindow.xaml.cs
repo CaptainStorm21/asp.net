@@ -24,5 +24,11 @@ namespace SDKSample
         {
             InitializeComponent();
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            //show message when button is clicked
+            MessageBox.Show("Hello, this is window presenation");
+        }
     }
 }
