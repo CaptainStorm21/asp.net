@@ -5,8 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NY_Pizza"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="500" Width="800">
     <Grid>
 
+
+        <Rectangle HorizontalAlignment="Left" Height="217" Margin="66,231,0,0" Stroke="Black" VerticalAlignment="Top" Width="255" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.265"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.495"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Label Content="NY PIZZA" HorizontalAlignment="Left" Height="66" Margin="302,32,0,0" VerticalAlignment="Top" Width="259" FontFamily="Bahnschrift SemiBold" FontSize="48" HorizontalContentAlignment="Center"/>
+        <RadioButton x:Name="rbPineapple" Content="Pineapple Pizza $11.99" HorizontalAlignment="Left" Margin="88,329,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" FontSize="18" GroupName="TypeOfPizza"/>
+        <RadioButton x:Name="rbCheese" Content="Cheese Pizza $9.99" HorizontalAlignment="Left" Margin="88,269,0,0" VerticalAlignment="Top" FontSize="18" GroupName="TypeOfPizza"/>
+        <RadioButton x:Name="rbPepperoni" Content="Pepperoni $12.99" HorizontalAlignment="Left" Margin="88,300,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" FontSize="18" GroupName="TypeOfPizza"/>
     </Grid>
 </Window>
