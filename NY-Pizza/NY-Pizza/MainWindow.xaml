@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NY_Pizza"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="800">
-    <Grid Height="478" VerticalAlignment="Top">
+        Title="MainWindow" Height="500" Width="900">
+    <Grid Height="478" VerticalAlignment="Top" HorizontalAlignment="Left" Width="842">
 
 
         <Rectangle HorizontalAlignment="Left" Height="148" Margin="66,241,0,0" Stroke="Black" VerticalAlignment="Top" Width="255" RenderTransformOrigin="0.5,0.5" Fill="#FFF9F982">
@@ -19,7 +19,7 @@
                 </TransformGroup>
             </Rectangle.RenderTransform>
         </Rectangle>
-        <Label Content="NY PIZZA" HorizontalAlignment="Left" Height="66" Margin="302,32,0,0" VerticalAlignment="Top" Width="259" FontFamily="Bahnschrift SemiBold" FontSize="48" HorizontalContentAlignment="Center"/>
+        <Label Content="NY PIZZA" HorizontalAlignment="Left" Height="66" Margin="301,45,0,0" VerticalAlignment="Top" Width="259" FontFamily="Bahnschrift SemiBold" FontSize="48" HorizontalContentAlignment="Center"/>
         <RadioButton x:Name="rbPineapple" Content="Pineapple Pizza $11.99" HorizontalAlignment="Left" Margin="88,329,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" FontSize="18" GroupName="TypeOfPizza"/>
         <RadioButton x:Name="rbCheese" Content="Cheese Pizza $9.99" HorizontalAlignment="Left" Margin="88,269,0,0" VerticalAlignment="Top" FontSize="18" GroupName="TypeOfPizza"/>
         <RadioButton x:Name="rbPepperoni" Content="Pepperoni $12.99" HorizontalAlignment="Left" Margin="88,300,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" FontSize="18" GroupName="TypeOfPizza"/>
@@ -40,5 +40,6 @@
         <Label Content="Total Price" HorizontalAlignment="Left" Margin="578,361,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,3.507" FontSize="22"/>
         <Label Content="$" HorizontalAlignment="Left" Margin="380,361,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.474,4.855" FontSize="24" FontWeight="Bold"/>
         <Button x:Name="button" Content="Order" HorizontalAlignment="Left" Margin="116,415,0,0" VerticalAlignment="Top" FontSize="22" Background="#FFB7F0D3" Width="129" BorderBrush="#FF190380" Foreground="#FF5D0659"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="88,32,0,0" VerticalAlignment="Top" Width="100" Source="/2.jpg"/>
     </Grid>
 </Window>
